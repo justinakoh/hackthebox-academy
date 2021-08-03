@@ -15,7 +15,10 @@ ffuf -w /opt/useful/SecLists/Discovery/Web-Content/web-extensions.txt:FUZZ -u ht
 # Question
 Try to use what you learned in this section to fuzz the '/blog' directory and find all pages. One of them should contain a flag. What is the flag?
 ```
+
+
 Answer:
+
 
 ```
 
